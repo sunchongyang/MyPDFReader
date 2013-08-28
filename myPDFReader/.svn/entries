@@ -1,0 +1,231 @@
+10
+
+dir
+0
+https://100.100.40.164/svn/develop/trunk/doc/myPDFReader/myPDFReader
+https://100.100.40.164/svn/develop
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d920d7c7-2c6b-cf41-8705-a0f6ae81973c
+
+main.m
+file
+
+
+
+add
+
+BookView.m
+file
+
+
+
+add
+
+Book.h
+file
+
+
+
+add
+
+jsonUtils.h
+file
+
+
+
+add
+
+BookCell.h
+file
+
+
+
+add
+
+Default@2x.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+BookCell.m
+file
+
+
+
+add
+
+myPDFReader-Info.plist
+file
+
+
+
+add
+
+Book.m
+file
+
+
+
+add
+
+jsonUtils.m
+file
+
+
+
+add
+
+en.lproj
+dir
+
+
+
+add
+
+ThirdPartyLibraries
+dir
+
+
+
+add
+
+myNavigationController.h
+file
+
+
+
+add
+
+ListViewController.h
+file
+
+
+
+add
+
+AppDelegate.h
+file
+
+
+
+add
+
+ViewController.h
+file
+
+
+
+add
+
+myNavigationController.m
+file
+
+
+
+add
+
+ListViewController.m
+file
+
+
+
+add
+
+myPDFReader-Prefix.pch
+file
+
+
+
+add
+
+AppDelegate.m
+file
+
+
+
+add
+
+Default.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Default-568h@2x.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+ViewController.m
+file
+
+
+
+add
+
+Resources
+dir
+
+
+
+add
+
+BookView.h
+file
+
+
+
+add
+
+BookCell.xib
+file
+
+
+
+add
+
